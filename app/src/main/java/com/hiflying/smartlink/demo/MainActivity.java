@@ -21,11 +21,17 @@ public class MainActivity extends Activity {
 	}
 
 	public void startSmartLink3Demo(View view) {
-		startActivity(new Intent(this, SmartLink3DemoActivity.class));
+		Intent intent = new Intent(this, CustomizedActivity.class);
+		intent.putExtra(CustomizedActivity.EXTRA_SMARTLINK_VERSION, 3);
+		startActivity(intent);
+		//startActivity(new Intent(this, SmartLink3DemoActivity.class));
 	}
 
 	public void startSmartLink7Demo(View view) {
-		startActivity(new Intent(this, SmartLink7DemoActivity.class));
+		Intent intent = new Intent(this, CustomizedActivity.class);
+		intent.putExtra(CustomizedActivity.EXTRA_SMARTLINK_VERSION, 7);
+		startActivity(intent);
+	//	startActivity(new Intent(this, SmartLink7DemoActivity.class));
 	}
 
 	private String getVersionName() {
