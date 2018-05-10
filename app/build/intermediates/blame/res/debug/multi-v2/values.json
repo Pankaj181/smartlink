@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Lib Projetcs\\Demo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\Lib Projetcs\\Demo\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "4,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "185,476",
+                        "endLines": "10,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "471,631"
+                    }
+                },
+                {
+                    "source": "D:\\Lib Projetcs\\Demo\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "17,73",
+                        "endColumns": "54,74",
+                        "endOffsets": "67,143"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,74",
+                        "endOffsets": "105,180"
+                    }
+                }
+            ]
+        }
+    ]
+}

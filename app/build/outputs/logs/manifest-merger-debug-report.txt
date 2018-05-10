@@ -1,0 +1,137 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:1:1-67:12
+INJECTED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:1:1-67:12
+INJECTED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:1:1-67:12
+INJECTED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:1:1-67:12
+INJECTED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:1:1-67:12
+INJECTED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:1:1-67:12
+INJECTED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:1:1-67:12
+	package
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:2:5-42
+		INJECTED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:4:5-32
+		INJECTED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:6:5-8:41
+INJECTED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:8:9-38
+		INJECTED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:7:9-34
+		INJECTED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:12:22-64
+application
+ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:14:5-65:19
+	android:label
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:16:9-45
+	android:allowBackup
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.hiflying.smartlink.demo.MainActivity
+ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:screenOrientation
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:23:13-49
+	android:configChanges
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:22:13-119
+	android:name
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:21:13-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:24:12-27:29
+action#android.intent.action.MAIN
+ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.hiflying.smartlink.v3.SnifferSmartLinkerActivity
+ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:30:9-34:57
+	android:screenOrientation
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:33:13-49
+	android:label
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:34:13-55
+	android:configChanges
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:32:13-119
+	android:name
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:31:13-80
+activity#com.hiflying.smartlink.v7.MulticastSmartLinkerActivity
+ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:36:9-40:59
+	android:screenOrientation
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:40:13-57
+	android:configChanges
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:38:13-119
+	android:name
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:37:13-82
+activity#com.hiflying.smartlink.demo.SmartLinkerFragmentActivity
+ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:42:9-46:58
+	android:screenOrientation
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:45:13-49
+	android:label
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:46:13-56
+	android:configChanges
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:44:13-119
+	android:name
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:43:13-83
+activity#com.hiflying.smartlink.demo.CustomizedActivity
+ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:48:9-52:49
+	android:screenOrientation
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:51:13-49
+	android:label
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:52:13-47
+	android:configChanges
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:50:13-119
+	android:name
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:49:13-74
+activity#com.hiflying.smartlink.demo.SmartLink7DemoActivity
+ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:54:9-58:53
+	android:screenOrientation
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:57:13-49
+	android:label
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:58:13-51
+	android:configChanges
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:56:13-119
+	android:name
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:55:13-78
+activity#com.hiflying.smartlink.demo.SmartLink3DemoActivity
+ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:60:9-64:53
+	android:screenOrientation
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:63:13-49
+	android:label
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:64:13-51
+	android:configChanges
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:62:13-119
+	android:name
+		ADDED from D:\Lib Projetcs\Demo\app\src\main\AndroidManifest.xml:61:13-78
